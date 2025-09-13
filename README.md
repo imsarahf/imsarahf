@@ -2,18 +2,20 @@
 
 MSIS Graduate Student @ Georgia State University | Full Stack Developer & Data Science
 
-I am a graduate student in Information Systems (MSIS) at Georgia State University, with concentration in AI for Data-Driven Business
+I am a graduate student in Information Systems (MSIS) at Georgia State University, with concentration in AI for Data-Driven Business  
 
 Currently, I am expanding my knowledge of AI and Business's involvement in technology, to combine with my software engineerng background. 
 
-🎓 Education
+🎓 Education  
+
 Master of Science in Information Systems (MSIS)
 Georgia State University | August 2025 – Present | Technology Association of Georgia (TAG)
 
 BSc in Software Engineering
 Kennesaw State University | August 2020 – December 2024 | NSBE, GirlsWhoCode, WIT, ASA
 
-🏆 Professional Experience
+🏆 Professional Experience  
+
 Software Engineer | Gwinnett County Public Schools - Contract
 August 2024 – December 2024
 
@@ -22,7 +24,8 @@ Integrated Mapbox for geospatial visualization of school bus location and speed 
 Led project delivery with Python and Docker, ensuring scalable, reliable performance and seamless collaboration across cross-functional teams.
 
 
-🛠️ Projects
+🛠️ Projects  
+
 Front-End Developer | ProfitPro
 Aug 2024 - Dec 2024
 Developed a secure, web-based accounting app using Firebase, HTML5, CSS, and JavaScript, implementing password policies, expiration rules, and recovery mechanisms.
@@ -41,7 +44,8 @@ Applied predictive modeling (ARIMA, Linear Regression) in Python to forecast sal
 Skills: MySQL · Tableau · Python (Programming Language)
 
 
-🔑 Key Skills & Technologies
+🔑 Key Skills & Technologies  
+
 Programming: Java, Python, SQL, JavaScript, HTML/CSS, R
 Data and Cloud Tools: MySQL, AWS, Firebase, Tableau, Docker
 Development Tools: IntelliJ, PyCharm, VS Code | Platforms: Linux, MacOS, Windows
