@@ -3,7 +3,7 @@
 MSIS Graduate Student @ Georgia State University | Full Stack Developer & Data Science
 I am a graduate student in Information Systems (MSIS) at Georgia State University, with concentration in AI for Data-Driven Business
 
-Currently, I am expanding my knowledge of AI and Business's involvement in technology, to combine with my software engineerng background. 
+\nCurrently, I am expanding my knowledge of AI and Business's involvement in technology, to combine with my software engineerng background. 
 
 🎓 Education
 Master of Science in Information Systems (MSIS)
