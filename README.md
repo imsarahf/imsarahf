@@ -44,7 +44,7 @@ Applied predictive modeling (ARIMA, Linear Regression) in Python to forecast sal
 Skills: MySQL · Tableau · Python (Programming Language)
 
 
-## 🔑 Key Skills & Technologies  
+## 🔑 Skills & Technologies  
 
 Programming: Java, Python, SQL, JavaScript, HTML/CSS, R<br>
 Data and Cloud Tools: MySQL, AWS, Firebase, Tableau, Docker<br>
